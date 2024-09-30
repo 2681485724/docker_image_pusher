@@ -1,6 +1,8 @@
 --platform=linux/arm64 dqzboy/registry:latest
 --platform=linux/arm64 jenkins/jenkins:2.462.2-lts
 dqzboy/docker-registry-ui:latest
+snowdreamtech/frpc
+snowdreamtech/frps
 
 
 # 支持私库
