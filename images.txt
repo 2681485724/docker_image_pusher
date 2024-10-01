@@ -4,6 +4,7 @@
 dqzboy/docker-registry-ui:latest
 snowdreamtech/frpc
 snowdreamtech/frps
+--platform=linux/arm64 sonatype/nexus3
 
 
 # 支持私库
